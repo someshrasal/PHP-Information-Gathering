@@ -11,6 +11,7 @@ Importing this simple page we can able to gather following data on email:
 
 ### Prerequisites:
 
+###### PHPMailer library (https://github.com/PHPMailer/PHPMailer)
 
 #### Following part of code require modification:
 
@@ -34,5 +35,8 @@ code()
                 $mail->addCC('cc@example.com');
                 $mail->addBCC('bcc@example.com');
                 
+### Usage:
+
+Import this page in legitimate page to send URL to victim
 
                 
