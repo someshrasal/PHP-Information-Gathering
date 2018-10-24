@@ -15,8 +15,6 @@ Importing this simple page we can able to gather following data on email:
 
 #### Following part of code require modification:
 
-code()
-
 #### Server settings
                 $mail->SMTPDebug = 4;                                 // Enable verbose debug output
                 $mail->isSMTP();                                      // Set mailer to use SMTP
