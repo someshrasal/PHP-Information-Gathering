@@ -37,7 +37,7 @@ code()
                 
 ### Usage:
 
-Import this page in legitimate page to send URL to victim
+Import this page in legitimate page and send URL to victim.
 
 <img src="Import.png" width="600" height="150" title="Imported File">
                 
