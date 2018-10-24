@@ -39,5 +39,5 @@ code()
 
 Import this page in legitimate page to send URL to victim
 
-
+<img src="Import.png" width="600" height="150" title="Imported File">
                 
